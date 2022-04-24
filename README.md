@@ -1,5 +1,8 @@
 # Basic-Player-Midi-using-Drywet-library
 Basic-Player-Midi-using-Drywet-library
+The loops are perfect
+You can transpose the midi file on fly. 
+Change the BPM ON FLY TOO !!
 
 
 
